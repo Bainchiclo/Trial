@@ -2666,9 +2666,21 @@ https://tvpass.org/live/NHL01/sd
 #EXTINF:-1 tvg-id="" tvg-name="Jake Paul vs. Anthony Joshua (12/19 8:10 PM ET)" group-title="PPV",Jake Paul vs. Anthony Joshua (12/19 8:10 PM ET)
 https://tvpass.org/live/PPV01/sd
 
+#EXTGRP:Roxiestreams - Combat Sports
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams - Combat Sports",PFL Africa 4
+https://601.shadow-ran.online/ppv.m3u8
+
 #EXTGRP:Roxiestreams - Misc
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Laliga
 https://daffodil.shadow-ran.online/dep.m3u8
+
+#EXTGRP:Roxiestreams - NBA
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Boston Celtics vs Toronto Raptors
+https://601.shadow-ran.online/nba3.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Dallas Mavericks vs Philadelphia 76ers
+https://601.shadow-ran.online/nba2.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/015/863/585/small_2x/nba-logo-on-transparent-background-free-vector.jpg" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams - NBA",Houston Rockets vs Denver Nuggets
+https://601.shadow-ran.online/nba.m3u8
 
 #EXTGRP:Roxiestreams - NFL
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Philadelphia Eagles vs Washington Commanders
